@@ -1,2 +1,2 @@
 # vijeth_1
-my first git repo 
+my first git repository
